@@ -5,6 +5,7 @@ import styles from '@/app/ui/home.module.css';
 import { lusitana } from '@/app/ui/fonts';
 import Image from 'next/image';
 
+
 <div className={styles.shape} />;
 
 export default function Page() {
